@@ -1,5 +1,10 @@
 # Linux Mint Ricing
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/shahmir-k/linux-mint-ricing)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-Compatible-orange?style=for-the-badge&logo=linux-mint)](https://linuxmint.com/)
+[![GTK](https://img.shields.io/badge/GTK-Theme%20Collection-purple?style=for-the-badge)](https://www.gtk.org/)
+
 A collection of themes, icons, and wallpapers for customizing Linux Mint to create a beautiful desktop environment.
 
 ## 🎨 Themes & Icons
