@@ -35,6 +35,7 @@ A collection of themes, icons, and wallpapers for customizing Linux Mint to crea
 
 ![Desktop with Mint Icon](desktop_mint_icon.png)
 ![Desktop with 343 Guilty Spark](desktop_343guiltyspark_icon.png)
+![Linux Mint Theme Settings](mint_theme_settings.png)
 
 ## 🚀 Installation
 
