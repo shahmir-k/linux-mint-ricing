@@ -37,6 +37,28 @@ A collection of themes, icons, and wallpapers for customizing Linux Mint to crea
 ![Desktop with 343 Guilty Spark](desktop_343guiltyspark_icon.png)
 ![Linux Mint Theme Settings](mint_theme_settings.png)
 
+## Important Applets
+
+### QRedshiftCinnamon
+
+https://github.com/raphaelquintao/QRedshiftCinnamon
+
+Run installation script from GitHub repo above. 
+
+OR
+
+Open "Applets" click the Download tab and find QRedshift
+
+---
+
+Then to add it to your Cinnamon applets:
+
+- Open "Applets" through the start menu.
+- In the "Manage" tab click "QRedshift"
+- Click the "+" plus button at the bottom to add it to your taskbar
+
+
+
 ## 🚀 Installation
 
 1. Clone this repository
