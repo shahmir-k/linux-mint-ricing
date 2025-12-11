@@ -49,7 +49,6 @@ OR
 
 Open "Applets" click the Download tab and find QRedshift
 
----
 
 Then to add it to your Cinnamon applets:
 
